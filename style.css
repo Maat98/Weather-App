@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('../images/weather2.jpeg');
+    background-image: url('../images/weather2.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
